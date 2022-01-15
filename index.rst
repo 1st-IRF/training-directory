@@ -5,7 +5,7 @@ Welcome to 1st International Response Force - Training Directory
 About the Training Directory
 =================================================
 
-The Training Directory stores all of the 1st IRF’s training programs in an easily searchable and referancable way.
+The Training Directory stores all of the 1st IRFâ€™s training programs in an easily searchable and referancable way.
 
 This area is designed to provide the training materials that should be used in partnership with our in game training programs. These documents are important for learning the base information required for each school but are not comprehensive in every case and as such complement the practical training rather than replacing it.
 
@@ -19,92 +19,92 @@ The 1st IRF uses a highly modified and custom gamespace that is unique to our un
 
 We work hard to ensure that these training documents are always in line with the latest production features offered on our servers so as to prevent confusion.
 
-Other units using this training program may wish to contact us so that they can train or play in our environment. We welcome any units that wish to share our modpack and gamespace; Any contact request related to this should be directed to the Unit Commander by emailing: info@korps-mariniers.com
+Other units using this training program may wish to contact us so that they can train or play in our environment. We welcome any units that wish to share our modpack and gamespace; Any contact request related to this should be directed to the Unit Commander by emailing: info@1st-irf.com
 =================================================
 Training Programs:
 =================================================
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Basic Combat Training
+  :maxdepth: 1
+  :caption: Basic Combat Training
 
-   bct/intro
-   bct/unit_introduction
-   bct/basic_formalities
-   bct/weapon_familiarization
-   bct/weapon_qualification
-   bct/basic_communications
-   bct/apendix_a_guide_to_getting_started
-
-.. toctree::
-   :maxdepth: 1
-   :caption: AIT 1 - 11 Series ( Infantry Forces )
-
-   ait_11/intro
-   ait_11/infantry_of_the_irf
-   ait_11/the_squad_and_fireteam
-   ait_11/equipment
-   ait_11/preparing_for_action
-   ait_11/formations
-   ait_11/comunication
-   ait_11/battle_drills
-   ait_11/basic_medical
-   ait_11/mout
+  bct/intro
+  bct/unit_introduction
+  bct/basic_formalities
+  bct/weapon_familiarization
+  bct/weapon_qualification
+  bct/basic_communications
+  bct/apendix_a_guide_to_getting_started
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Airborne School ( BPT )
+  :maxdepth: 1
+  :caption: AIT 1 - 11 Series ( Infantry Forces )
 
-   arbn/intro
-   arbn/explanation
-   arbn/preparation
-   arbn/pre_jump
-   arbn/boarding
-   arbn/jumping
-   arbn/rallying
-   arbn/excercises
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Tactical Combat Casualty Care ( TC3 )
-
-   tc3/intro
-   tc3/medics_in_the_irf
-   tc3/ACE
-   tc3/rendering_aid
-   tc3/equipment_of_the_medical_teams
-   tc3/levels_intro
-   tc3/ingame
+  ait_11/intro
+  ait_11/infantry_of_the_irf
+  ait_11/the_squad_and_fireteam
+  ait_11/equipment
+  ait_11/preparing_for_action
+  ait_11/formations
+  ait_11/comunication
+  ait_11/battle_drills
+  ait_11/basic_medical
+  ait_11/mout
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Joint Service Radio School ( JSRS )
+  :maxdepth: 1
+  :caption: Airborne School ( BPT )
+  
+  arbn/intro
+  arbn/explanation
+  arbn/preparation
+  arbn/pre_jump
+  arbn/boarding
+  arbn/jumping
+  arbn/rallying
+  arbn/excercises
 
-   jsrs/intro
-   jsrs/radio_use_overview
-   jsrs/basic_principles
-   jsrs/basic_transmission
-   jsrs/message_protocols
-   jsrs/reports
-   jsrs/requests
+.. toctree::
+  :maxdepth: 1
+  :caption: Tactical Combat Casualty Care ( TC3 )
+   
+  tc3/intro
+  tc3/medics_in_the_irf
+  tc3/ACE
+  tc3/rendering_aid
+  tc3/equipment_of_the_medical_teams
+  tc3/levels_intro
+  tc3/ingame
+  
+.. toctree::
+  :maxdepth: 1
+  :caption: Joint Service Radio School ( JSRS )
+   
+  jsrs/intro
+  jsrs/radio_use_overview
+  jsrs/basic_principles
+  jsrs/basic_transmission
+  jsrs/message_protocols
+  jsrs/reports
+  jsrs/requests
    
 .. toctree::
-   :maxdepth: 1
-   :caption: Instructor Handbooks
+  :maxdepth: 1
+  :caption: Instructor Handbooks
 
-   ait_11/instructor_manual
+  ait_11/instructor_manual
    
 .. toctree::
-   :maxdepth: 1
-   :caption: Policies and Official Documents
-
-   official_documentation/ranks_and_promotions
-
+  :maxdepth: 1
+  :caption: Policies and Official Documents
+   
+  official_documentation/ranks_and_promotions
+   
 .. toctree::
-   :maxdepth: 1
-   :caption: Brand Guidelines
+  :maxdepth: 1
+  :caption: Brand Guidelines
 
-   branding_and_recruitment/intro
-   branding_and_recruitment/value_propositions
-   branding_and_recruitment/recruitment_posts
-   branding_and_recruitment/inbound
+  branding_and_recruitment/intro
+  branding_and_recruitment/value_propositions
+  branding_and_recruitment/recruitment_posts
+  branding_and_recruitment/inbound
