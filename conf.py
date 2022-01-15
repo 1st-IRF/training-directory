@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'1st Rapid Response Force - Training Directory'
+project = u'1st International Response Force - Training Directory'
 copyright = u'2021, S4 Operations and Force Readiness'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -203,7 +203,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', '1stRapidResponseForce-TrainingDirectory.tex', u'1st Rapid Response Force - Training Directory',
+  ('index', '1stInternationalResponseForce-TrainingDirectory.tex', u'1st International Response Force - Training Directory',
    u'S4 Operations and Force Readiness', 'manual'),
 ]
 
@@ -233,7 +233,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', '1strapidresponseforce-trainingdirectory', u'1st Rapid Response Force - Training Directory Documentation',
+    ('index', '1stinternationalresponseforce-trainingdirectory', u'1st International Response Force - Training Directory Documentation',
      [u'S4 Operations and Force Readiness'], 1)
 ]
 
@@ -247,8 +247,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', '1stRapidResponseForce-TrainingDirectory', u'1st Rapid Response Force - Training Directory Documentation',
-   u'S4 Operations and Force Readiness', '1stRapidResponseForce-TrainingDirectory', 'One line description of project.',
+  ('index', '1stInternationalResponseForce-TrainingDirectory', u'1st International Response Force - Training Directory Documentation',
+   u'S4 Operations and Force Readiness', '1stInternationalResponseForce-TrainingDirectory', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -268,13 +268,13 @@ texinfo_documents = [
 # -- Options for Epub output ----------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'1st Rapid Response Force - Training Directory'
+epub_title = u'1st International Response Force - Training Directory'
 epub_author = u'S4 Operations and Force Readiness'
 epub_publisher = u'S4 Operations and Force Readiness'
 epub_copyright = u'2021, S4 Operations and Force Readiness'
 
 # The basename for the epub file. It defaults to the project name.
-#epub_basename = u'1st Rapid Response Force - Training Directory'
+#epub_basename = u'1st International Response Force - Training Directory'
 
 # The HTML theme for the epub output. Since the default themes are not optimized
 # for small screen space, using the same theme for HTML and epub output is
