@@ -5,7 +5,7 @@ Welcome to 1st International Response Force - Training Directory
 About the Training Directory
 =================================================
 
-The Training Directory stores all of the 1st IRFâ€™s training programs in an easily searchable and referancable way.
+The Training Directory stores all of the 1st IRF's training programs in an easily searchable and referancable way.
 
 This area is designed to provide the training materials that should be used in partnership with our in game training programs. These documents are important for learning the base information required for each school but are not comprehensive in every case and as such complement the practical training rather than replacing it.
 
