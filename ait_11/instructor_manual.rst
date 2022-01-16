@@ -1,7 +1,7 @@
 AIT Instructor Handbook
 ========================
-  ..Danger::
-
+.. danger::
+  
   **NOT FOR TRAINEE USE**
 
   This handbook is designed to be used by instructors.
@@ -22,7 +22,7 @@ AIT 11 is designed to provide members who have just graduated BCT with a solid b
 
 AIT is also a chance for the recruit to get a glimpse of some of the more complicated roles in the unit such as leadership roles ( “that is covered at a leadership level” ) and specialists ( “T3C leads into a full medical corps”).
 
-  ..Warning::
+.. warning::
   
   If at any point a recruit reveals they have not read the documentation fully they should be removed from the session and told to apply for the next available time slot.
 
@@ -178,7 +178,7 @@ Voice Volume Control
 Stage 6 - AT Firing Procedure
 ----------------------
 
-  ..Warning::
+.. warning::
   
   This section is only for the MOS 11H - Antitank Crewman
 
@@ -331,13 +331,13 @@ Finally walk them through applying a tourniquet with ACE and explain the handoff
  
 You should run recruits through this as a role play excercise to ensure they are properly able to react to one of the team taking fire.
 
-  ..Warning::
+.. warning::
   DO NOT DISCHARGE ROUND WHILST TRAINING T3C.
   
 
 Stage 11 - MOUT
 ----------------
-  ..Danger::
+.. danger::
   
   Ensure at the start of the MOUT section that no recruit is in possesion of a live grenade and that they are exclusively holding practise grenades (blue grenades) and stun grenades.
 
@@ -353,7 +353,7 @@ Ensure they are able to correctly stack - set - then move onto a point of domina
 
 Once the team has succesfully completed this excercise run the same excercise on the same room but with a practise grenade breach.
 
-  ..Danger::
+.. danger::
   
   Ensure only practise grenades are used for MOUT.
 
@@ -365,7 +365,7 @@ Once this is complete instructors should walk trainees through how to breach and
 
 At this stage trainees should enter the glass house and proceed to the Killhouse.
 
-  ..Danger::
+.. danger::
  
   Before entering the safehouse provide a full safety briefing around the use of controlled fire and check again that no one is carrying live explosives.
 
@@ -377,8 +377,7 @@ Instructors should make corrections to poor technique on the fly as necessary.
 
 Continue moving around the killhouse until all questions are addressed and the instructors are satisfied with the techniques of the recruits.
 
-  ..Note::
-
+.. note::
   Whilst moving through the killhouse instructors should ensure that trainees are tested on a variety of breaches including using flash greandes and practise grenades.
 
   It is also a good idea to simulate some weapon failure - perhaps by getting one trainee to remove their magazine and simulate their weapon failing on entry.
@@ -417,7 +416,7 @@ Evacuation
  * Once the vehicle has arrived, it’s just like Embarking on base. Lowest to highest with permission and orders be given first. Except this time, you have to tell people when you are in, so that the next person can automatically move to get onto the helicopter. 
  * Make sure to hold your security until it is your time to board.
  
-  ..Note::
+.. note::
 
   Allow the students a couple attempts at loading and dismounting into the gator. Make sure they are forming a proper file. Requesting permission, loading their teams properly, and dismounting from back to front properly.
 
